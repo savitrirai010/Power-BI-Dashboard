@@ -17,4 +17,4 @@ Key Findings:
 - The Research and Development department had the highest attrition rate.
 - The employees with Life Sciences as education field had the highest attrition rate.
 - The maximum attrition rate observed among employees with a High School education level was 18.24%.
-
+- The average age of employees was 37 years.
